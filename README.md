@@ -1,2 +1,3 @@
-# base-2020
-Starter repo for 2020
+# LAB branch
+
+This branch hosts the screenshots documenting the completion of each labs.
